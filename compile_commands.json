@@ -1,0 +1,242 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/args.o",
+      "src/args.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/args.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/args.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/file.o",
+      "src/file.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/file.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/file.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/bytes/alloc.o",
+      "src/bytes/alloc.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/bytes/alloc.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/bytes/alloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/bytes/access.o",
+      "src/bytes/access.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/bytes/access.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/bytes/access.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/chunk/parse.o",
+      "src/chunk/parse.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/chunk/parse.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/chunk/parse.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/chunk/write.o",
+      "src/chunk/write.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/chunk/write.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/chunk/write.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/parse/number.o",
+      "src/parse/number.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/parse/number.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/parse/number.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/lib/release/src/parse/my_strncmp.o",
+      "src/parse/my_strncmp.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/lib",
+    "file": "/home/jules/Epitech/antman/lib/src/parse/my_strncmp.c",
+    "output": "/home/jules/Epitech/antman/build/lib/release/src/parse/my_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/antman/release/src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/antman",
+    "file": "/home/jules/Epitech/antman/antman/src/main.c",
+    "output": "/home/jules/Epitech/antman/build/antman/release/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/antman/release/src/compress.o",
+      "src/compress.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/antman",
+    "file": "/home/jules/Epitech/antman/antman/src/compress.c",
+    "output": "/home/jules/Epitech/antman/build/antman/release/src/compress.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/antman/release/src/encoder/encode.o",
+      "src/encoder/encode.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/antman",
+    "file": "/home/jules/Epitech/antman/antman/src/encoder/encode.c",
+    "output": "/home/jules/Epitech/antman/build/antman/release/src/encoder/encode.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/antman/release/src/encoder/chunk.o",
+      "src/encoder/chunk.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/antman",
+    "file": "/home/jules/Epitech/antman/antman/src/encoder/chunk.c",
+    "output": "/home/jules/Epitech/antman/build/antman/release/src/encoder/chunk.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/antman/release/src/lzss/match.o",
+      "src/lzss/match.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/antman",
+    "file": "/home/jules/Epitech/antman/antman/src/lzss/match.c",
+    "output": "/home/jules/Epitech/antman/build/antman/release/src/lzss/match.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/giantman/release/src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/giantman",
+    "file": "/home/jules/Epitech/antman/giantman/src/main.c",
+    "output": "/home/jules/Epitech/antman/build/giantman/release/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/giantman/release/src/decompress.o",
+      "src/decompress.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/giantman",
+    "file": "/home/jules/Epitech/antman/giantman/src/decompress.c",
+    "output": "/home/jules/Epitech/antman/build/giantman/release/src/decompress.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I./include/",
+      "-O2",
+      "-flto",
+      "-o",
+      "../build/giantman/release/src/raw.o",
+      "src/raw.c"
+    ],
+    "directory": "/home/jules/Epitech/antman/giantman",
+    "file": "/home/jules/Epitech/antman/giantman/src/raw.c",
+    "output": "/home/jules/Epitech/antman/build/giantman/release/src/raw.o"
+  }
+]
